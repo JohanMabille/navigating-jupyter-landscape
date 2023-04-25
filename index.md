@@ -113,3 +113,22 @@ img[alt~="center"] {
 
 ---
 
+![bg fit 60%](img/widgets.svg)
+
+---
+
+# Widgets
+
+- ipywidgets / xwidgets: basic interactive widgets (sliders, buttons, checkboxes...)
+- ipyleaflet / xleaflet: interactive maps based on leaflet
+- bqplot / xplot: plotting libraries implementing the grammar of graphics
+- many others ....
+
+---
+
+Slides about Lite
+
+---
+
+![bg fit 60%](img/repos_map.svg)
+
