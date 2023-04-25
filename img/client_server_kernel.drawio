@@ -1,0 +1,225 @@
+<mxfile host="app.diagrams.net" modified="2023-04-25T16:47:04.696Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QNQr4QnBgTdWpWTF15To" version="21.1.2" type="device">
+  <diagram name="Page-1" id="97VbLyKQm-HA4-jB3zyy">
+    <mxGraphModel dx="1153" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dwKPengDuIZu9_1sb7ro-74" value="Kernel Protocol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-24" value="" style="group;strokeWidth=0;fontColor=none;noLabel=1;strokeColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="480" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-25" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;strokeWidth=0;fontColor=none;noLabel=1;strokeColor=none;fillColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-24">
+          <mxGeometry width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ipython&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;strokeWidth=0;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-24">
+          <mxGeometry x="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-27" value="&lt;i style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Python execution, magics, and ipython terminal interface&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;strokeWidth=0;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-24">
+          <mxGeometry y="20" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-87" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="95" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="319" y="20" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#5cc989;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-1">
+          <mxGeometry width="162.85714285714283" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-3" value="&lt;b&gt;JupyterLab&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-1">
+          <mxGeometry x="40.71" width="81.42857142857142" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-4" value="&lt;i&gt;next-generation web-based&lt;br&gt;UI for Project Jupyter&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-1">
+          <mxGeometry y="15" width="176.4285714285714" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="320" y="160" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-6" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fillColor=#5ec1ed;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-5">
+          <mxGeometry width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;jupyter_server&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-5">
+          <mxGeometry x="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-8" value="&lt;i&gt;backend to Jupyter web applications&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-5">
+          <mxGeometry y="20" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-16" value="" style="group;fontColor=none;noLabel=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-17" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=none;noLabel=1;fillColor=none;strokeColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-16">
+          <mxGeometry width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;jupyter_client&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-16">
+          <mxGeometry x="35" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-19" value="&lt;i style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Jupyter protocol client APIs&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-16">
+          <mxGeometry x="11.666666666666666" y="15" width="116.66666666666666" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-20" value="" style="group;strokeWidth=0;noLabel=1;fontColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="360" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-21" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;strokeWidth=0;noLabel=1;fontColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-20">
+          <mxGeometry width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;ipykernel&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;strokeWidth=0;noLabel=1;fontColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-20">
+          <mxGeometry x="35" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-23" value="&lt;i&gt;IPython kernel for Jupyter&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;strokeWidth=0;noLabel=1;fontColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-20">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-28" value="" style="group;fontColor=none;noLabel=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="320" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-29" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=none;noLabel=1;fillColor=none;strokeColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-28">
+          <mxGeometry width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-30" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;jupyter_client&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-28">
+          <mxGeometry x="35" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-31" value="&lt;i style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Jupyter protocol client APIs&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-28">
+          <mxGeometry x="11.666666666666666" y="15" width="116.66666666666666" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-57" value="" style="group;strokeWidth=0;noLabel=1;fontColor=none;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="480" y="370" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-58" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;strokeWidth=0;noLabel=1;fontColor=none;fillColor=none;strokeColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-57">
+          <mxGeometry x="5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-59" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;xeus-cling&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;strokeWidth=0;noLabel=1;fontColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-57">
+          <mxGeometry x="15" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-60" value="&lt;i&gt;C++ kernel based on xeus&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;strokeWidth=0;noLabel=1;fontColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-57">
+          <mxGeometry y="20" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-53" value="" style="group;fontColor=none;noLabel=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="604.17" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-54" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=none;noLabel=1;fillColor=none;strokeColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-53">
+          <mxGeometry width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;xeus&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-53">
+          <mxGeometry x="35" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-56" value="&lt;i style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;native implementation of the Jupyter protocol&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-53">
+          <mxGeometry x="-4.169999999999984" y="22.5" width="148.33" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-61" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="70" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-62" value="Web socket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="65" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="145" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-64" value="Web socket" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="140" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-65" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-61" target="dwKPengDuIZu9_1sb7ro-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-63" target="dwKPengDuIZu9_1sb7ro-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=0;fontColor=none;noLabel=1;strokeColor=none;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-23" target="dwKPengDuIZu9_1sb7ro-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=0;fontColor=none;noLabel=1;strokeColor=none;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-26" target="dwKPengDuIZu9_1sb7ro-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="320" as="sourcePoint" />
+            <mxPoint x="570" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-72" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontColor=none;noLabel=1;strokeColor=none;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-30" target="dwKPengDuIZu9_1sb7ro-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+            <mxPoint x="570" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontColor=none;noLabel=1;strokeColor=none;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-13" target="dwKPengDuIZu9_1sb7ro-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="210" as="sourcePoint" />
+            <mxPoint x="570" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-75" value="Kernel Protocol" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;noLabel=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-80" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="559.9987878787879" y="160" width="144.24242424242425" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-81" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5cc989;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-80">
+          <mxGeometry width="144.24242424242425" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-82" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;jupyter_console&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-80">
+          <mxGeometry x="20.606060606060606" width="103.03030303030303" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-83" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;Jupyter terminal console&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-80">
+          <mxGeometry x="20.606060606060606" y="20" width="93.75757575757575" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-12" value="" style="group;fontColor=none;noLabel=1;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450" y="210" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-13" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=12;fontColor=none;noLabel=1;fillColor=none;strokeColor=none;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-12">
+          <mxGeometry width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;jupyter_client&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-12">
+          <mxGeometry x="35" width="70" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-15" value="&lt;i style=&quot;font-family: Helvetica; font-size: 12px; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Jupyter protocol client APIs&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;align=center;fontColor=none;noLabel=1;" vertex="1" parent="dwKPengDuIZu9_1sb7ro-12">
+          <mxGeometry x="11.666666666666666" y="15" width="116.66666666666666" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-85" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-61" target="dwKPengDuIZu9_1sb7ro-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="130" as="sourcePoint" />
+            <mxPoint x="270" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-86" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="97.5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-88" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontColor=none;noLabel=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="255" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-93" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontColor=none;noLabel=1;strokeColor=none;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-17" target="dwKPengDuIZu9_1sb7ro-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="250" />
+              <mxPoint x="170" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-94" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=0;fontColor=none;noLabel=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="207.5" y="440" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dwKPengDuIZu9_1sb7ro-98" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=0;fontColor=none;noLabel=1;strokeColor=none;" edge="1" parent="1" source="dwKPengDuIZu9_1sb7ro-23" target="dwKPengDuIZu9_1sb7ro-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="477.5" as="sourcePoint" />
+            <mxPoint x="270" y="427.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="420" />
+              <mxPoint x="210" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -60,4 +60,56 @@ img[alt~="center"] {
 
 ---
 
+![bg fit 60%](img/client_server_kernel-0.svg)
+
+---
+
+# Jupyter Server
+
+- Backend to Jupyter Web applications (not the consoles):
+    - core services
+    - APIs
+    - REST endpoints
+- Client of kernels
+- Responsible for launching and keeping kernels alive
+- Use the same protocol for Web apps and kernels
+
+---
+
+# Servers
+
+- Jupyter Server: historical, mono user, based on tornado
+- Jupyverse: alternive implementation based on async.io
+- Jupyter Hub: multi-user server using Jupyter Server
+
+---
+
+![bg fit 60%](img/client_server_kernel-1.svg)
+
+---
+
+# Kernel protocol
+
+- Documentation at https://jupyter-client.readthedocs.io/en/stable/messaging.html
+- Agnostic to the language
+- `jupyter_client` is the reference implementation in Python
+- `xeus` is the reference implementation in C++
+- implementations rely on ZeroMQ
+
+![bg fit right:30%](https://xeus.readthedocs.io/en/latest/_images/jupyter_archi.svg)
+
+---
+
+![bg fit 60%](img/client_server_kernel-2.svg)
+
+---
+
+# Kernels
+
+- ipykernel, reference implementation of python kernel
+- kernel wrapper approach (kernels based on ipykernel)
+- standalone kernels (IJulia, IRKernel)
+- xeus-based kernels (xeus-cling, xeus-python, xeus-lua, etc...)
+
+---
 
