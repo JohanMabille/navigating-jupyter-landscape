@@ -2,9 +2,13 @@
 marp: true
 theme: default
 paginate: true
-header: ![height:40px](https://quantstack.net/img/logo.svg)
 footer: ![height:20px](img/twitter.svg) ![height:20px](img/github.svg) @JohanMabille @jtpio @QuantStack
-style: @import url('https://unpkg.com/tailwindcss@^2/dist/utilities.min.css');
+style: |
+  .columns {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+  }
 ---
 
 <style>
@@ -26,8 +30,7 @@ img[alt~="center"] {
 ---
 
 # About
-
-<div class="grid grid-cols-2 gap-4">
+<div class="columns">
 <div>
 
 ## Johan Mabille
@@ -40,7 +43,7 @@ img[alt~="center"] {
 </div>
 <div>
 
-## Jérémie Tuloup
+## Jérémy Tuloup
 
 - Technical Director at QuantStack
 - Jupyter Distinguished Contributor
@@ -79,8 +82,8 @@ img[alt~="center"] {
 # Servers
 
 - Jupyter Server: historical, mono user, based on tornado
-- Jupyverse: alternive implementation based on async.io
-- Jupyter Hub: multi-user server using Jupyter Server
+- Jupyverse: alternative implementation based on asyncio
+- JupyterHub: multi-user server using Jupyter Server
 
 ---
 
@@ -94,7 +97,7 @@ img[alt~="center"] {
 - Agnostic to the language
 - `jupyter_client` is the reference implementation in Python
 - `xeus` is the reference implementation in C++
-- implementations rely on ZeroMQ
+- Implementations rely on ZeroMQ
 
 ![bg fit right:30%](https://xeus.readthedocs.io/en/latest/_images/jupyter_archi.svg)
 
