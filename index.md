@@ -59,7 +59,15 @@ img[alt~="center"] {
 
 ---
 
-# Jeremie slides
+# Jupyter Notebook
+
+---
+
+# JupyterLab
+
+---
+
+# Voilà
 
 ---
 
