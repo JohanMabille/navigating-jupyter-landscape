@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2023-05-07T20:49:47.582Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="6iRsgb9jYClrn9rVPcQa" version="21.2.9" type="device">
+  <diagram name="Page-1" id="5OrIbQPkI7EPva0HWHGc">
+    <mxGraphModel dx="2607" dy="1495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="51YCdARtGL2dUX88wdPQ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=16;fillColor=#66DE97;" vertex="1" parent="1">
+          <mxGeometry x="529" y="320" width="361" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-187" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="730" y="380" width="144.24" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-188" value="" style="group" vertex="1" connectable="0" parent="51YCdARtGL2dUX88wdPQ-187">
+          <mxGeometry y="10" width="144.24" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-189" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#5cc989;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-188">
+          <mxGeometry width="144.24" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-190" value="&lt;i&gt;turns Jupyter notebook into standalone applications&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-187">
+          <mxGeometry x="4.460000000000036" y="40" width="139.78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-191" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Voilà&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-187">
+          <mxGeometry x="36.059999999999945" width="72.12" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-192" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="549.6" y="360" width="150.4" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-193" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fillColor=#5cc989;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-192">
+          <mxGeometry width="150.4" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-194" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Notebook&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-192">
+          <mxGeometry x="37.6" width="75.2" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-195" value="&lt;i&gt;Jupyter notebook application&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-192">
+          <mxGeometry x="10.650173669467788" y="30" width="129.09333333333333" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-196" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="539.2990909090909" y="440" width="175.15151515151516" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-197" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#5cc989;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-196">
+          <mxGeometry x="12.51082251082251" width="150.1298701298701" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-198" value="&lt;b&gt;JupyterLab&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-196">
+          <mxGeometry x="50.04329004329004" width="75.06493506493506" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-199" value="&lt;i&gt;next-generation web-based&lt;br&gt;UI for Project Jupyter&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="51YCdARtGL2dUX88wdPQ-196">
+          <mxGeometry x="6.255411255411255" y="15" width="162.6406926406926" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="51YCdARtGL2dUX88wdPQ-200" value="&lt;b&gt;Web App&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="559.9051515151515" y="320" width="123.63636363636363" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -59,15 +59,55 @@ img[alt~="center"] {
 
 ---
 
+# The Jupyter Interfaces
+
+---
+
+![center](img/web-apps.svg)
+
+---
+
 # Jupyter Notebook
+
+- What users often call "Jupyter"
+- The frontend is a web application
+- Start with `jupyter notebook`
+
+![bg fit right](img/jupyter-notebook.png)
 
 ---
 
 # JupyterLab
 
+- Next-gen UI for Project Jupyter
+- Allows to work with multiple notebooks, consoles, text editors, terminals, etc...
+- Rich ecosystem of extensions
+- Start with `jupyter lab`
+
+![bg fit right](img/jupyterlab.png)
+
 ---
 
 # Voilà
+
+- Turn notebooks into standalone web applications
+- Start with `voila my_notebook.ipynb`
+
+![bg fit right](img/voila.png)
+
+
+---
+
+![center](img/all-web-apps.svg)
+
+---
+
+
+# NBConvert
+
+- Convert notebooks to other formats
+- Start with `jupyter nbconvert my_notebook.ipynb`
+- Can also be used from the notebook UI
 
 ---
 
@@ -137,7 +177,34 @@ img[alt~="center"] {
 
 ---
 
-Slides about Lite
+# JupyterLite
+
+- WebAssembly powered Jupyter running in the browser
+- Stands on the shoulder of giants:
+  - Xeus kernels running in the browser
+  - JupyterLab and Jupyter Notebook
+  - Voici to turn notebooks into static web applications
+  - Support for Jupyter Widgets and Visualization libraries
+- No real `jupyter-server`, `jupyter-client`, `nbconvert`
+
+---
+
+![bg fit](./img/jupyterlite.png)
+
+---
+
+# More
+
+- Real Time Collaboration in JupyterLab and Jupyter Notebook: `jupyter-collaboration`
+- Executable Books: `thebe` and `jupyter-book`
+- Alternative Jupyter Frontends: Google Colab, VS Code, DataLore...
+
+---
+
+# Resources
+
+- Jupyter Documentation: https://docs.jupyter.org
+- ...
 
 ---
 
