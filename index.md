@@ -178,6 +178,8 @@ img[alt~="center"] {
 - bqplot / xplot: plotting libraries implementing the grammar of graphics
 - many others ....
 
+![bg fit right](img/widgets.png)
+
 ---
 
 # JupyterLite
