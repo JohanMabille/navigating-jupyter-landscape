@@ -192,12 +192,11 @@ img[alt~="center"] {
 
 ---
 
-![bg fit](./img/jupyterlite.png)
+![bg fit 60%](./img/jupyterlite.png)
 
 ---
 
-TODO: add diagram from https://blog.jupyter.org/xeus-lite-379e96bb199d
-But with the same blocks and colors of the repo map
+![bg fit 75%](./img/jupyterlite.svg)
 
 ---
 
@@ -213,6 +212,10 @@ But with the same blocks and colors of the repo map
 
 - Jupyter Documentation: https://docs.jupyter.org
 - This presentation: https://github.com/JohanMabille/navigating-jupyter-landscape
+
+---
+
+# Thanks!
 
 ---
 
