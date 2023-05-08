@@ -67,24 +67,26 @@ img[alt~="center"] {
 
 ---
 
-# Jupyter Notebook
-
-- What users often call "Jupyter"
-- The frontend is a web application
-- Start with `jupyter notebook`
-
-![bg fit right](img/jupyter-notebook.png)
-
----
-
 # JupyterLab
 
 - Next-gen UI for Project Jupyter
 - Allows to work with multiple notebooks, consoles, text editors, terminals, etc...
 - Rich ecosystem of extensions
+- Allows for custom lab-based applications
 - Start with `jupyter lab`
 
 ![bg fit right](img/jupyterlab.png)
+
+---
+
+# Jupyter Notebook
+
+- What users often call "Jupyter"
+- The frontend is a web application
+- Notebook 7 is built with JupyterLab components
+- Start with `jupyter notebook`
+
+![bg fit right](img/jupyter-notebook.png)
 
 ---
 
@@ -102,12 +104,13 @@ img[alt~="center"] {
 
 ---
 
-
-# NBConvert
+# nbconvert
 
 - Convert notebooks to other formats
 - Start with `jupyter nbconvert my_notebook.ipynb`
 - Can also be used from the notebook UI
+
+![bg fit right](img/nbconvert-export.png)
 
 ---
 
