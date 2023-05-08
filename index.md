@@ -95,7 +95,7 @@ img[alt~="center"] {
 - Turn notebooks into standalone web applications
 - Start with `voila my_notebook.ipynb`
 
-![bg fit right](img/voila.png)
+![bg fit right:40%](img/voila.png)
 
 
 ---
@@ -187,12 +187,17 @@ img[alt~="center"] {
   - Xeus kernels running in the browser
   - JupyterLab and Jupyter Notebook
   - Voici to turn notebooks into static web applications
-  - Support for Jupyter Widgets and Visualization libraries
+  - Support for Jupyter Widgets and visualization libraries
 - No real `jupyter-server`, `jupyter-client`, `nbconvert`
 
 ---
 
 ![bg fit](./img/jupyterlite.png)
+
+---
+
+TODO: add diagram from https://blog.jupyter.org/xeus-lite-379e96bb199d
+But with the same blocks and colors of the repo map
 
 ---
 
@@ -207,7 +212,7 @@ img[alt~="center"] {
 # Resources
 
 - Jupyter Documentation: https://docs.jupyter.org
-- ...
+- This presentation: https://github.com/JohanMabille/navigating-jupyter-landscape
 
 ---
 
