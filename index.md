@@ -115,6 +115,10 @@ img[alt~="center"] {
 
 ---
 
+# Jupyter backends
+
+---
+
 ![bg fit 60%](img/client_server_kernel-0.svg)
 
 ---
