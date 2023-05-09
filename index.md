@@ -93,6 +93,7 @@ img[alt~="center"] {
 # Voilà
 
 - Turn notebooks into standalone web applications
+- Can be customized with templates and themes
 - Start with `voila my_notebook.ipynb`
 
 ![bg fit right:40%](img/voila.png)
