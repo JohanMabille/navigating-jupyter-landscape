@@ -115,7 +115,7 @@ img[alt~="center"] {
 
 ---
 
-# Jupyter backends
+# The Jupyter Backends
 
 ---
 
