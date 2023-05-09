@@ -25,7 +25,7 @@ jobs:
         run: |
           mkdir -p public
           npx --yes @marp-team/marp-cli@2.5.0 index.md -o public/index.html --html
-          cp img public/
+          cp -r img public/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
