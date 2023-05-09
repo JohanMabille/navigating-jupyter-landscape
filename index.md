@@ -172,6 +172,10 @@ img[alt~="center"] {
 
 ---
 
+# The Jupyter Widgets
+
+---
+
 ![bg fit 60%](img/widgets.svg)
 
 ---
